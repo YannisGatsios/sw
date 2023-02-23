@@ -27,7 +27,9 @@
 
 
 ### Neofetch:
+
 [![asciicast](https://asciinema.org/a/rTRDdaGHlhXICWUz8Wb48vqKx.svg)](https://asciinema.org/a/rTRDdaGHlhXICWUz8Wb48vqKx)
 
 ### Py-Spy:
+
 [![asciicast](https://asciinema.org/a/A2zDNuIkwelGEitmuhc6aQaBm.svg)](https://asciinema.org/a/A2zDNuIkwelGEitmuhc6aQaBm)
