@@ -25,10 +25,17 @@
 ## Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας
 ### Για την δεύτερη εβδομάδα του μαθήματος για την άσκηση γραμμής εντολών (Systemd) εγκατέστησα τα Arch Linux σε εικονική μηχανή συγκεκριμένα στο Oracle VM VirtualBox, συγκεκριμένα μέσω του [installation guide στο Arch Wiki](https://wiki.archlinux.org/title/installation_guide) και διαφόρων βίντεο στην πλατφόρμα του YouTube βοηθήθηκα στην εγκατάσταση τους. Έπειτα μέσω του της εντολής pacman εγκατέστησα το asciinena για να καταγράψω την μηχανή μου , την python kai python-pip για εγκαταστήσω το py-spy η οποία πραγματοποιήθηκε γράφοντας sudo pip install py-spy στο terminal, και τελος εγκατέστησα το Neofetch όπως ακρηακριβώς μπου ζητήθηκε στις οδηγίες. 
 
+### ps -p 1 -o comm=
+
+[![asciicast](https://asciinema.org/a/8nS39TpDr8hQFLymBkvm9rkA4.svg)](https://asciinema.org/a/8nS39TpDr8hQFLymBkvm9rkA4)
 
 ### Neofetch:
 
 [![asciicast](https://asciinema.org/a/rTRDdaGHlhXICWUz8Wb48vqKx.svg)](https://asciinema.org/a/rTRDdaGHlhXICWUz8Wb48vqKx)
+
+### dmeg:
+
+[![asciicast](https://asciinema.org/a/IMQX0f5TfQaUQaX9asXd96FXp.svg)](https://asciinema.org/a/IMQX0f5TfQaUQaX9asXd96FXp)
 
 ### Py-Spy:
 
