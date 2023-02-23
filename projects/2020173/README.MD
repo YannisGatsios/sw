@@ -2,8 +2,8 @@
 
 ### Ιωάννης Γάτσιος
 ### A.M. Π2020173
-### Email:p20gats@ionio.gr
-### Github:https://github.com/YannisGatsios
+### Email: p20gats@ionio.gr
+### Github: https://github.com/YannisGatsios
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
@@ -24,3 +24,9 @@
 
 ## Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας
 ### Για την δεύτερη εβδομάδα του μαθήματος για την άσκηση γραμμής εντολών (Systemd) εγκατέστησα τα Arch Linux σε εικονική μηχανή συγκεκριμένα στο Oracle VM VirtualBox, συγκεκριμένα μέσω του [installation guide στο Arch Wiki](https://wiki.archlinux.org/title/installation_guide) και διαφόρων βίντεο στην πλατφόρμα του YouTube βοηθήθηκα στην εγκατάσταση τους. Έπειτα μέσω του της εντολής pacman εγκατέστησα το asciinena για να καταγράψω την μηχανή μου , την python kai python-pip για εγκαταστήσω το py-spy η οποία πραγματοποιήθηκε γράφοντας sudo pip install py-spy στο terminal, και τελος εγκατέστησα το Neofetch όπως ακρηακριβώς μπου ζητήθηκε στις οδηγίες. 
+
+
+### Neofetch:
+
+
+###
