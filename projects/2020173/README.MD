@@ -42,3 +42,4 @@
 [![asciicast](https://asciinema.org/a/A2zDNuIkwelGEitmuhc6aQaBm.svg)](https://asciinema.org/a/A2zDNuIkwelGEitmuhc6aQaBm)
 ## (Παραδοτέο 3)Γραμμή εντολών (no systemd)
 ### Για το τρίτο παραδοτέο [εγκατέστησα τα Artix Linux](https://artixlinux.org/download.php) τα οποία δεν έχουν systemd όπως μου ζητήθηκε για αυτό το παραδοτέο. Έπειτα μέσω του pacman ακριβώς όπως και στο δεύτερο παραδοτέο εγκατέστησα το Asciinema και το Neofetch, με το Asciinema έπειτα μπόρεσα να καταγράψω του terminal την χρήση του Neofetch.
+[![asciicast](https://asciinema.org/a/LGe6xPZmNmMZ9xzfe4Mlzrnyc.svg)](https://asciinema.org/a/LGe6xPZmNmMZ9xzfe4Mlzrnyc)
